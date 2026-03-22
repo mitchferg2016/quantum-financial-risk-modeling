@@ -56,7 +56,7 @@ This repository represents the **research layer**, while the platform represents
 
 A concept paper outlining the long-term vision is available:
 
-👉 *[Link will be added here]*
+👉 [Quantum-Enhanced Financial Risk Modeling (Concept Paper v1)](docs/concept-paper-v1.md)
 
 ---
 
