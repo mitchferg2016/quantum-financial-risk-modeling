@@ -143,6 +143,7 @@ However:
 - Improve configuration management practices (preparing for Parameter Store / Secrets Manager)
 - Ensure system stability across restarts and redeployments
 - Prepare a consistent, demo-ready environment
+- Future platform option: evaluate Kubernetes as an additional deployment target after the Docker Compose-based platform is fully stable and demo-ready.
 
 ---
 
